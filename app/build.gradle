@@ -16,6 +16,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    namespace 'br.senac.sp.l13.appheroephpmysql'
 }
 
 dependencies {
