@@ -32,6 +32,8 @@
             android:layout_marginBottom="8dp"
             android:layout_marginTop="8dp"
             android:hint="Nome real" />
+        
+
 
         <RatingBar
             android:id="@+id/ratingBar"
